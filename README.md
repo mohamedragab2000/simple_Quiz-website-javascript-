@@ -1,22 +1,29 @@
-📖 Overview
-The Simple Examinations System is a web-based application that delivers a seamless multiple-choice exam experience. With built-in timing, question randomization, and a clean, interactive interface, it offers a smooth and fair testing environment for students.
+# 📝 Simple Examinations System
 
-🚀 Key Features
-👤 Student Name Prompt
-Before starting the exam, students are prompted to enter their name using a popup dialog for a personalized experience.
+## 📖 Project Description
+The **Simple Examinations System** is a web-based application that simulates a multiple-choice exam experience. It offers features like a countdown timer, randomized questions and answers, and an easy-to-use interface to help students stay focused during the exam.
 
-🎲 Randomized Questions and Answers
-Every exam session presents a shuffled set of questions along with randomized answer options to prevent memorization patterns.
+---
 
-📄 One Question at a Time
-Questions are displayed individually, with a “Next” button to navigate, reducing cognitive load and distractions.
+## 🚀 Features
 
-✅ Single Answer Selection
-Students can select only one answer per question. The selected choice is visually highlighted with a gray background.
+### 👤 Student Name Input
+A popup prompt collects the student's name before the exam begins.
 
-⏳ Exam Timer
-A progress bar represents the remaining time—calculated as one minute per question—to help students pace themselves.
+### 🎲 Randomized Questions & Answers
+Questions and answer options are shuffled for every session to ensure fairness.
 
-📊 Instant Result Summary
-Results are automatically shown once the exam is completed or when the time runs out, giving immediate feedback.
+### 📄 One Question at a Time
+Only one question is displayed per page, with a "Next" button for navigation.
+
+### ✅ Answer Selection
+Students can choose only one answer per question. The selected answer is highlighted with a gray background.
+
+### ⏳ Exam Timer
+A progress bar visualizes the remaining time, allocating **1 minute per question**.
+
+### 📊 Instant Results
+When all questions are answered or time expires, the student's score is displayed automatically.
+
+
 
